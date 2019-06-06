@@ -1,4 +1,5 @@
 package com.smarthome.client.electricity;
 
-public class ElectroPoint {
+public abstract class ElectroPoint {
+    private State state;
 }
